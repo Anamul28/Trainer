@@ -1,0 +1,32 @@
+/* [ {
+  
+  
+    "id":"trainer",
+    "name": "Trainer",
+    "price": 80.00,
+    "Description": " Running Trainer"
+  
+    },
+
+
+   {
+
+  
+
+    "id":"jacket",
+    "name": "Jacket",
+    "price": 60.00,
+    "Description": " Zip up Jacket "
+
+
+
+    }, 
+
+      "id":"bottom",
+      "name": "Jogging Bottom",
+      "price": 70.00,
+      "Description": "Running Bottom"
+      
+  
+  
+      }] */
